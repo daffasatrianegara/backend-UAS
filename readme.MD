@@ -18,7 +18,7 @@ git clone https://github.com/daffasatrianegara/backend-UAS.git
 
 setelah itu, clone projek frontend dengan menjalankan text berikut di terminal:
 ```bash
-git clone https://github.com/daffasatrianegara/frontend-uas.git
+git git clone https://github.com/daffasatrianegara/frontend-UAS.git
 ```
 1. Masuk dulu ke folder Backend dengan perintah `cd backend`
 2. Jalankan perintah `npm install`
