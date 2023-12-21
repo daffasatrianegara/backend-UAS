@@ -10,9 +10,16 @@
 
 #### Pastikan sudah mendownload Node js dan PostgreSQL untuk menjalankan projek ini.
 **IMPORTANT NOTE!!**
-clone projek backend dulu dengan copy text berikut dan jalankan di terminal:
-``````
 
+clone projek backend dulu dengan copy text berikut dan jalankan di terminal:
+```bash
+git clone https://github.com/daffasatrianegara/backend-UAS.git
+```
+
+setelah itu, clone projek frontend dengan menjalankan text berikut di terminal:
+```bash
+git clone https://github.com/daffasatrianegara/frontend-uas.git
+```
 1. Masuk dulu ke folder Backend dengan perintah `cd backend`
 2. Jalankan perintah `npm install`
 3. pada folder backend, terdapat file **.env.example**; salin isi dari file tersebut dan buat file baru dengan nama **.env**, dan sesuaikan dengan konfigurasi pada postgreSQL anda.
