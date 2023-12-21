@@ -1,0 +1,6 @@
+*
+!.gitignore
+!default/*
+!default
+!man.png
+!woman.png
