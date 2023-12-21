@@ -32,6 +32,7 @@ git clone https://github.com/daffasatrianegara/frontend-uas.git
    ```bash
    https://api.postman.com/collections/30131488-92b614c5-8e2e-49da-a947-3af0f253f002?access_key=PMAT-01HJ6NZ8RTSF8T4JTQRGSKF1RA
    ```
+   
 7. jika backend sudah berjalan dengan sempurna, akses folder frontend dengan perintah `cd frontend`
 8. setelah itu, jalankan perintah `npm install`
 9. setelah itu, copy isi dari file **.env.example** dan buat file baru dengan nama **.env** ; **note :** jangan lupa konfigurasi dengan alamat dari backend anda. example: ``API_URL='http://localhost:3000/api/v1``
